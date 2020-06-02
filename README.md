@@ -6,6 +6,7 @@ Démarrer nos premiers containers
 
 ### Executez un premier container type hello-word
 Avec un navigateur, visiter le [Hub Docker](https://hub.docker.com/) : https://hub.docker.com/
+
 Utilisez le champs de recherche pour trouver l'application officielle **hello-world**
 
 Comme proposé dans la page, vous pouvez l'éxécuter de la façon suivante :
@@ -29,7 +30,7 @@ docker container start hello-world
 docker container run hello-world
 ```
 
-**Remarque 2** : 'docker runi <-->', soit 'docker container run <-->', correspond à 'docker image pull <-->' suivi de 'docker container start <-->'
+**Remarque 2** : 'docker run <image>', soit 'docker container run <image>', correspond à 'docker image pull <image>' suivi de 'docker container start <image>'
 
 
 ### Visualisez les changements
