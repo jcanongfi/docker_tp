@@ -9,7 +9,7 @@ docker version
 ```
 Permet de visualiser la version du client (CLI) et du moteur (Daemon).
 
-Doccker est écrit en Go.
+*docker* est écrit en Go.
 
 
 
@@ -17,8 +17,8 @@ Doccker est écrit en Go.
 docker
 ```
 Permet de voir la liste des commandes possible avec le CLI
-Historiquement, les commandes étaient directes et simples, réduites à un verbe (Commands)
-Mais avec le temps, les possibilités augmentant, elles ont été regroupées en catégories (Management Commands), soit un nom suivi d'un verbe.
-Il faut privilégier les Management Commands désormais, les Commands simples n'étant présente que par compatibilité (elles disparaitront peut-être un jour).
+Historiquement, les commandes étaient directes et simples, réduites à un verbe (*Commands*)
+Mais avec le temps, les possibilités augmentant, elles ont été regroupées en catégories (*Management Commands*), soit un nom suivi d'un verbe.
+Il faut privilégier les *Management Commands* désormais, les *Commands* simples n'étant présentes que par compatibilité (elles disparaitront peut-être un jour).
 
 
