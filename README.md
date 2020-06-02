@@ -7,7 +7,7 @@ Démarrer nos premiers containers
 
 Avec un navigateur, visiter le [Hub Docker](https://hub.docker.com/) : https://hub.docker.com/
 
-Utilisez le champs de recherche pour trouver l'application officielle hello-world
+Utilisez le champs de recherche pour trouver l'application officielle **hello-world**
 
 Comme proposé dans la page, vous pouvez l'éxécuter de la façon suivante :
 
