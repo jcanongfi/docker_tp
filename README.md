@@ -30,7 +30,7 @@ docker container start hello-world
 docker container run hello-world
 ```
 
-**Remarque 2** : 'docker run <image>', soit 'docker container run <image>', correspond à 'docker image pull <image>' suivi de 'docker container start <image>'
+**Remarque 2** : 'docker run <image>', soit 'docker container run <image>', correspond à 'docker image pull <image>' puis 'docker container create <image>' et enfin 'docker container start <image>'
 
 
 ### Visualisez les changements
