@@ -24,16 +24,22 @@ Démarrer nos premiers containers
 Démarrage container de niveau 2
 
 ### [TP no 4](https://github.com/jcanongfi/docker_tp/tree/tp-04)
+Container en mode interactif
 
 ### [TP no 5](https://github.com/jcanongfi/docker_tp/tree/tp-05)
+Construire une image minimale
 
 ### [TP no 6](https://github.com/jcanongfi/docker_tp/tree/tp-06)
+Construire une image tomcat
 
 ### [TP no 7](https://github.com/jcanongfi/docker_tp/tree/tp-07)
+Utiliser un volume sur un container web
 
 ### [TP no 8](https://github.com/jcanongfi/docker_tp/tree/tp-08)
+Jouer avec la registry publique
 
 ### [TP no 9](https://github.com/jcanongfi/docker_tp/tree/tp-09)
+Jouer avec une registry privée
 
 ### [TP no 10](https://github.com/jcanongfi/docker_tp/tree/tp-10)
-
+Build multistage
