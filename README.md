@@ -43,3 +43,7 @@ Jouer avec une registry privée
 
 ### [TP no 10](https://github.com/jcanongfi/docker_tp/tree/tp-10)
 Build multistage
+
+### [TP no 11](https://github.com/jcanongfi/docker_tp/tree/tp-11)
+Regroupement avec docker-compose
+
