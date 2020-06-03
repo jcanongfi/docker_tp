@@ -26,7 +26,7 @@ Démarrage container de niveau 2
 ### [TP no 4](https://github.com/jcanongfi/docker_tp/tree/tp-04) (incomplet)
 Container en mode interactif
 
-### [TP no 5](https://github.com/jcanongfi/docker_tp/tree/tp-05) (incomplet)
+### [TP no 5](https://github.com/jcanongfi/docker_tp/tree/tp-05)
 Construire une image minimale
 
 ### [TP no 6](https://github.com/jcanongfi/docker_tp/tree/tp-06) (incomplet)
