@@ -9,7 +9,7 @@ Afin de prendre un peut d'autonomie, je vous propose de construire votre propre 
 Voici quelques pistes :
 - [ ] Partez d'une image Centos 7.5
 - [ ] Installez openjdk-8 avec yum par exemple
-- [ ] Téléchargez et installez tomcat. Vous pouvez vous inspirer de cette [Procedure](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04)
+- [ ] Téléchargez et installez tomcat. Vous pouvez vous inspirer de cette [procédure](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04)
 
 Bon amusement
 
