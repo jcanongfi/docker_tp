@@ -14,9 +14,8 @@ Voici quelques pistes :
 Bon amusement
 
 
-
-
 ### A but de comparaison...
 Vous pouvez maintenant regarder à quoi ressemble d'un des Dockerfile de l'image officielle.
 
 [Dockerfile tomcat](https://github.com/docker-library/tomcat/blob/master/8.5/jdk8/openjdk/Dockerfile)
+
