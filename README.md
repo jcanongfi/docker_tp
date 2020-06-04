@@ -34,7 +34,7 @@ Pas d'inquiétude, n'importe quelle valeur fera l'affaire.
 **Remarque 2** : Rappelez-vous que la vm est exposée sur internet. Pensez à couper la registry dès que vous ne l'utilisez plus.
 
 Ensuite, choisissez une image au hasard (avec le nombre de TP, vous avez le choix).
-Appliquez-lui un tage de votre choix avec en préfix le nom de votre registry localhost:5000.
+Appliquez-lui un tag de votre choix avec en préfix le nom de votre registry localhost:5000.
 
 Par exemple :
 ```
