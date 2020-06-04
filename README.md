@@ -7,9 +7,9 @@ Jouer avec une registry privée
 A défaut d'installer de façon native une registry docker, quoi de mieux que le faire en executant un container ?
 
 C'est une solution pédagogique et pratique qui convient bien à ce TP, mais ce n'est pas une bonne idée pour un environnement de production. :sweat_smile:
-[] Pas de gestion du SSL via des certificats
-[] Pas de paramétrage et de sizing de la zone disque dédiée au stockage des images
-[] Pas assez de haute disponibilité en l'état
+- [ ] Pas de gestion du SSL via des certificats
+- [ ] Pas de paramétrage et de sizing de la zone disque dédiée au stockage des images
+- [ ] Pas assez de haute disponibilité en l'état
 
 Cependant, ce serait dommage de passer à côté. Et ça a le mérite de pouvoir s'entraîner facilement à tester une registry.
 
