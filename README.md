@@ -29,4 +29,17 @@ Déplacez vous dans /mnt et créez une page index.html
 ```
 docker run -d -v site_web:/usr/share/nginx/html -p 8080:80 nginx
 ```
+Testez
+```
+curl http://capcloud-X.westeurope.cloudapp.azure.com:8080/
+```
+
+### Version bind mount
+```
+docker run -d -v /home/gfiuser/docker_tp:/usr/share/nginx/html -p 8080:80 nginx
+```
+Testez
+```
+curl http://capcloud-X.westeurope.cloudapp.azure.com:8080/
+```
 
