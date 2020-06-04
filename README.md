@@ -35,7 +35,7 @@ Construire une image minimale
 ### [TP no 06](https://github.com/jcanongfi/docker_tp/tree/tp-06)
 Construire une image tomcat
 
-### [TP no 07](https://github.com/jcanongfi/docker_tp/tree/tp-07) (incomplet)
+### [TP no 07](https://github.com/jcanongfi/docker_tp/tree/tp-07)
 Utiliser un volume sur un container web
 
 ### [TP no 08](https://github.com/jcanongfi/docker_tp/tree/tp-08)
