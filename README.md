@@ -14,6 +14,9 @@ Il peut être plus facile de le lire depuis un navigateur directement sur github
 
 ## TPs
 
+### [TP no 00](https://github.com/jcanongfi/docker_tp/tree/tp-00)
+Préparation de la vm
+
 ### [TP no 01](https://github.com/jcanongfi/docker_tp/tree/tp-01)
 Premier contact avec docker
 
