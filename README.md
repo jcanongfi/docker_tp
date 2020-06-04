@@ -23,7 +23,7 @@ Démarrer nos premiers containers
 ### [TP no 3](https://github.com/jcanongfi/docker_tp/tree/tp-03)
 Démarrage container de niveau 2
 
-### [TP no 4](https://github.com/jcanongfi/docker_tp/tree/tp-04) (incomplet)
+### [TP no 4](https://github.com/jcanongfi/docker_tp/tree/tp-04)
 Container en mode interactif
 
 ### [TP no 5](https://github.com/jcanongfi/docker_tp/tree/tp-05)
