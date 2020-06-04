@@ -35,7 +35,7 @@ Construire une image tomcat
 ### [TP no 07](https://github.com/jcanongfi/docker_tp/tree/tp-07) (incomplet)
 Utiliser un volume sur un container web
 
-### [TP no 08](https://github.com/jcanongfi/docker_tp/tree/tp-08) (incomplet)
+### [TP no 08](https://github.com/jcanongfi/docker_tp/tree/tp-08)
 Jouer avec la registry publique
 
 ### [TP no 09](https://github.com/jcanongfi/docker_tp/tree/tp-09)
