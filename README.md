@@ -14,31 +14,31 @@ Il peut être plus facile de le lire depuis un navigateur directement sur github
 
 ## TPs
 
-### [TP no 1](https://github.com/jcanongfi/docker_tp/tree/tp-01)
+### [TP no 01](https://github.com/jcanongfi/docker_tp/tree/tp-01)
 Premier contact avec docker
 
-### [TP no 2](https://github.com/jcanongfi/docker_tp/tree/tp-02)
+### [TP no 02](https://github.com/jcanongfi/docker_tp/tree/tp-02)
 Démarrer nos premiers containers
 
-### [TP no 3](https://github.com/jcanongfi/docker_tp/tree/tp-03)
+### [TP no 03](https://github.com/jcanongfi/docker_tp/tree/tp-03)
 Démarrage container de niveau 2
 
-### [TP no 4](https://github.com/jcanongfi/docker_tp/tree/tp-04)
+### [TP no 04](https://github.com/jcanongfi/docker_tp/tree/tp-04)
 Container en mode interactif
 
-### [TP no 5](https://github.com/jcanongfi/docker_tp/tree/tp-05)
+### [TP no 05](https://github.com/jcanongfi/docker_tp/tree/tp-05)
 Construire une image minimale
 
-### [TP no 6](https://github.com/jcanongfi/docker_tp/tree/tp-06)
+### [TP no 06](https://github.com/jcanongfi/docker_tp/tree/tp-06)
 Construire une image tomcat
 
-### [TP no 7](https://github.com/jcanongfi/docker_tp/tree/tp-07) (incomplet)
+### [TP no 07](https://github.com/jcanongfi/docker_tp/tree/tp-07) (incomplet)
 Utiliser un volume sur un container web
 
-### [TP no 8](https://github.com/jcanongfi/docker_tp/tree/tp-08) (incomplet)
+### [TP no 08](https://github.com/jcanongfi/docker_tp/tree/tp-08) (incomplet)
 Jouer avec la registry publique
 
-### [TP no 9](https://github.com/jcanongfi/docker_tp/tree/tp-09)
+### [TP no 09](https://github.com/jcanongfi/docker_tp/tree/tp-09)
 Jouer avec une registry privée
 
 ### [TP no 10](https://github.com/jcanongfi/docker_tp/tree/tp-10)
