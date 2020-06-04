@@ -8,9 +8,9 @@ Il s'agit ici de construire une image minimale contenant une application écrite
 Nous ne disposons que du code source et pas d'environnement Go sur notre vm.
 
 Le fait d'utiliser un fichier Dockerfile multistage offre les avantages suivants :
-[] Pouvoir profiter d'une image golang possédant l'environnement de compilation Go
-[] De compiler le code source dans cette image et de n'extraire que le binaire résultant
-[] De minimiser le nombre de layer sur l'image finale
+- [ ] Pouvoir profiter d'une image golang possédant l'environnement de compilation Go
+- [ ] De compiler le code source dans cette image et de n'extraire que le binaire résultant
+- [ ] De minimiser le nombre de layer sur l'image finale
 
 ### Lecture et analyse du fichier Dockerfile
 Analysez le contenu du fichier Dockerfile de ce TP.
