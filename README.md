@@ -27,12 +27,21 @@ Déplacez vous dans /mnt et créez une page index.html
 
 ### Utilisons ce volume pour un serveur web nginx
 ```
-docker run -d -v site_web:/usr/share/nginx/html -p 8080:80 nginx
+docker run -d -v site_web:/usr/share/nginx/html -p 8080:80 --name webserver nginx
 ```
 Testez
 ```
 curl http://capcloud-X.westeurope.cloudapp.azure.com:8080/
 ```
+Arrêtez le container webserver
+```
+docker stop webserver
+```
+Détruisez le volume site_web
+```
+docker volume rm site_web
+```
+
 
 ### Version bind mount
 ```
