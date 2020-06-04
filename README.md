@@ -29,7 +29,7 @@ Container en mode interactif
 ### [TP no 5](https://github.com/jcanongfi/docker_tp/tree/tp-05)
 Construire une image minimale
 
-### [TP no 6](https://github.com/jcanongfi/docker_tp/tree/tp-06) (incomplet)
+### [TP no 6](https://github.com/jcanongfi/docker_tp/tree/tp-06)
 Construire une image tomcat
 
 ### [TP no 7](https://github.com/jcanongfi/docker_tp/tree/tp-07) (incomplet)
