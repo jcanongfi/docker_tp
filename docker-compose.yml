@@ -1,0 +1,33 @@
+version: 3
+
+services:
+
+  postgres:
+    image: postgres:10
+    environment:
+      POSTGRES_USER: rails_user
+      POSTGRES_PASSWORD: rails_password
+      POSTGRES_DB: rails_db
+
+  redis:
+    image: redis:3.2-alpine
+
+  rails:
+    build: .
+    depends_on:
+      - postgres
+      - redis
+    environment:
+      DATABASE_URL: 'postgres://rails_user:rails_password@postgres:5432/rails_db'
+      REDIS_HOST: 'redis:6379'
+    volumes:
+      - .:/app
+
+  nginx:
+    image: nginx:latest
+    links:
+      - rails
+    ports:
+      - 3000:80
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro

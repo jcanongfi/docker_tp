@@ -11,9 +11,20 @@ sudo curl -o /usr/local/bin/docker-compose -L "https://github.com/docker/compose
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-### Ecrire un fichier yaml
+### Analyser un fichier yaml
+Ouvrez et parcourez le fichier docker-compose.yml
 
-A compléter...
+C'est un fichier au formal YAML basé sur l'indentation.
+
+Il décrit 4 services
+* postgres
+  * définit l'image docker et 3 variables d'initialisation
+* redis
+  * définit l'image docker
+* rails
+  * définit l'image docker, la dépendance à deux services, 2 variables d'environnement et un volume
+* nginx
+  * définit l'image docker, un link vers rails, un port d'exposition sur la vm hôte et un bind mount en read-only
 
 ### Executer docker-compose
 ```
@@ -27,6 +38,16 @@ docker-compose ps
 Ou encore (ce sont des containers docker après tout !) :
 ```
 docker container ps 
+```
+
+```
+docker-compose logs
+```
+```
+docker-compose logs -f 
+```
+```
+docker-compose logs -f rails
 ```
 
 ### Arrêter les containers
