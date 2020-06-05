@@ -46,6 +46,11 @@ Il est possible de voir le container avec 'docker container list'
   * vous pouvez consulter les logs avec la commande 'docker log my-web-server'  (à un instant t)
   * si vous voulez voir les logs en continu (comme un tail -f), il suffit de rajouter l'option -f => 'docker logs -f my-web-server'
 
+Avant de passer à l'étape suivante, vous pouvez arrêter le container et même le supprimer
+```
+docker container stop my-web-server
+docker container rm my-web-server
+```
 
 
 ### Executez une version spécifique
