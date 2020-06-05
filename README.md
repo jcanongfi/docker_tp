@@ -45,8 +45,5 @@ Enfin, il ne vous reste plus qu'a réaliser le push
 ```
 docker push localhost:5000/mon_repo/mon_image:latest
 ```
-
-Toute personne souhaitant récupérer cette image dans un autre environnement pourra se connecter à celle-ci et réaliser un docker pull
-
 Félicitations ! :clap:
 
