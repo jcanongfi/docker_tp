@@ -44,7 +44,7 @@ Il est possible de voir le container avec 'docker container list'
   * vu qu'il tourne encore, pas besoin de préciser --all
   * vous pouvez voir son nom dans la dernière colonne NAMES
   * vous pouvez consulter les logs avec la commande 'docker log my-web-server'  (à un instant t)
-  * si vous voulez voir les logs en continu (comme un tail -f), il suffit de rajouter l'option -f => 'docker log -f my-web-server'
+  * si vous voulez voir les logs en continu (comme un tail -f), il suffit de rajouter l'option -f => 'docker logs -f my-web-server'
 
 
 
