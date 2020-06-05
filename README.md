@@ -9,7 +9,7 @@ Afin d'aller plus loin, nous allons lancer un serveur web de type nginx.
 
 * Nous allons lui donner explicitement un nom avec --name (par exemple --name my-web-server)
 * Particularité unix, le container nginx est prévu pour écouter sur le port 80, or nous utilisons le user gfiuser qui n'est pas root.
-  Acceptez-le pour l'instant, nous utilisons l'option '-p 8080:80' pour spécifier que le port 80 du container correspond au port 80 sur notre vm.
+  Acceptez-le pour l'instant, nous utilisons l'option '-p 8080:80' pour spécifier que le port 80 du container correspond au port 8080 sur notre vm.
 
 Vous pouvez executer la commande suivante :
 ```
