@@ -67,7 +67,7 @@ Pour supprimer un container, il faut connaître son nom (cf la remarque 3)
 
 Pour supprimer une image, c'est pratiquement la même commande  :grinning:
    ```
-     docker image rm <nom_container>
+     docker image rm <image_id>
    ```
 **Remarque 5** : Pour pouvoir détruire une image, il faut avoir détruit tous les containers la référençant (en cours ou arrêtés).
 
